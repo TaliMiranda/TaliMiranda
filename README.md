@@ -6,7 +6,5 @@
      Estou aberta a colaborações que me permitam combinar meus interesses e contribuir para a comunidade de código aberto.
 - 📫 Você pode entrar em contato comigo através do meu perfil do GitHub ou pelo meu e-mail dev.talita@proton.me 
      Estou sempre aberta a novas conexões e oportunidades de colaboração.
-- 😄 Pronouns: Ela / Dela
-- ⚡ Curiosidade: Além do meu interesse em tecnologia, sou uma entusiasta da culinária saudável (sou Natural Chef) e adoro explorar novas receitas e ingredientes naturais, e também sou
-     apaixonada por todo universo místico !
+- ⚡ Curiosidade: Além do meu interesse em tecnologia, sou uma entusiasta da culinária saudável (sou Natural Chef) e adoro explorar novas receitas e ingredientes naturais, e também sou apaixonada por todo universo místico (faço leituras de tarot, oráculos, desenho humano e astrologia) !
 
